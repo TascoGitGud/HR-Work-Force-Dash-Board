@@ -20,6 +20,8 @@ This was my **first Power BI project**, focused on getting comfortable with the 
 
 ### 1. Executive Summary
 
+![Executive Summary](Images/Executive_Summary.png)
+
 A high-level overview of the workforce, with KPI cards and breakdown charts:
 
 - **KPI cards**: Total Employees (311), Salary Expenses ($21.5M), Turnover Rate (33.44%), Average Tenure, Absence Rate, Average Satisfaction, Average Age
@@ -30,6 +32,8 @@ A high-level overview of the workforce, with KPI cards and breakdown charts:
 - **Workforce Metrics Overview by Dimension** - a table that switches between Department, Position, Gender, Citizenship, Age, Marital Status, and Ethnicity using button-based navigation
 
 ### 2. Workforce Database
+
+![Workforce Database](Images/Workforce_Database.png)
 
 A detailed, filterable employee-level table showing salary, tenure, absence rate, satisfaction score, recruitment source, gender, marital status, performance, retention risk, and ethnicity - with conditional formatting (color scales and icons) to highlight outliers like high absence rate or high retention risk.
 
@@ -59,3 +63,5 @@ A detailed, filterable employee-level table showing salary, tenure, absence rate
 | File | Description |
 |---|---|
 | `HR-WORKFORCE-DASHBOARD.pbix` | The Power BI report file (mock data, 2 pages) |
+| `HR-WORKFORCE-DASHBOARD-PDF.pdf` | Static PDF export of the report, for quick viewing without Power BI Desktop |
+| `Images` | Screenshots of each report page |
