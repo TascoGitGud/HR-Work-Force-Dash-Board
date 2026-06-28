@@ -1,10 +1,9 @@
-# 📊 HR Workforce Dashboard | Power BI
+# 📊 Power BI | HR Workforce Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Learning_Project-blue?style=flat-square)
 
----
 
 ## 📌 Overview
 
