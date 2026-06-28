@@ -64,3 +64,6 @@ A detailed, filterable employee-level table showing salary, tenure, absence rate
 | `HR-WORKFORCE-DASHBOARD.pbix` | The Power BI report file (mock data, 2 pages) |
 | `HR-WORKFORCE-DASHBOARD-PDF.pdf` | Static PDF export of the report, for quick viewing without Power BI Desktop |
 | `Images` | Screenshots of each report page |
+
+
+---
